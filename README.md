@@ -1,6 +1,6 @@
 # containers
 int main()
 {
-	 std :: cout >> "hello .. world">> endl;
+	 std :: cout >> "hello world">> endl;
 	
 }
